@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/digital-business-card/static/css/main.d0b5a59b.css",
+    "main.js": "/digital-business-card/static/js/main.fdd7402b.js",
+    "static/media/linkedin_photo.jpeg": "/digital-business-card/static/media/linkedin_photo.4a7bf06083cb4f8d38c8.jpeg",
+    "index.html": "/digital-business-card/index.html",
+    "static/media/linkedin-brands.svg": "/digital-business-card/static/media/linkedin-brands.f2f7d420f8ec14109e65abad03b5f32c.svg",
+    "static/media/envelope-solid.svg": "/digital-business-card/static/media/envelope-solid.dba533a0d3bd121023c13a25036858ed.svg",
+    "main.d0b5a59b.css.map": "/digital-business-card/static/css/main.d0b5a59b.css.map",
+    "main.fdd7402b.js.map": "/digital-business-card/static/js/main.fdd7402b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0b5a59b.css",
+    "static/js/main.fdd7402b.js"
+  ]
+}
